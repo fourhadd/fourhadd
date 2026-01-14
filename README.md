@@ -5,9 +5,11 @@
 
 ## 🛠 Skills
 
-- **Programming Languages:** Python, C#, C, C++, Java, JavaScript  
-- **Web Development:** HTML5, CSS  
-- **Tools & Technologies:** VS Code, Git, GitHub  
+- **Programming Languages:** Dart, Python, PHP, C#, C, C++, Java, JavaScript  
+- **Mobile Development:** Flutter  
+- **Web Development:** React.js, HTML5, CSS, PHP  
+- **Tools & Technologies:** VS Code, Git, GitHub 
+- **Soft Skills:** Problem Solving, Teamwork, Quick Learner
 
 ## 📫 Connect with me
 
