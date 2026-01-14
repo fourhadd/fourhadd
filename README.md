@@ -15,4 +15,4 @@
 
 - 🔗 LinkedIn: [Fərhad Kərimov](https://www.linkedin.com/in/farhadkerimov11/)  
 - 🔗 GitHub: [fourhadd](https://github.com/fourhadd)  
-- 📧 Email: *your email here*
+- 📧 Email: *krmvferhad@gmail.com*
