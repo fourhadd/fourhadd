@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Fərhad Kərimov
 
-<!--
-**fourhadd/fourhadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Computer Engineering Student  
+🎓 Baku Engineering University  
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, C#, C, C++, Java, JavaScript  
+- **Web Development:** HTML5, CSS  
+- **Tools & Technologies:** VS Code, Git, GitHub  
+
+## 📫 Connect with me
+
+- 🔗 LinkedIn: [Fərhad Kərimov](https://www.linkedin.com/in/farhadkerimov11/)  
+- 🔗 GitHub: [fourhadd](https://github.com/fourhadd)  
+- 📧 Email: *your email here*
