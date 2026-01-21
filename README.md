@@ -7,7 +7,7 @@
 ## 🛠 Skills
 
 - **Programming Languages:** Dart, Python, PHP, C#, C, C++, Java, JavaScript  
-- **Mobile Development:** Flutter  
+- **Mobile Development:** Flutter (API Integration, REST APIs, JSON parsing)
 - **Web Development:** React.js, HTML5, CSS, PHP  
 - **Tools & Technologies:** VS Code, Git, GitHub 
 - **Soft Skills:** Problem Solving, Teamwork, Quick Learner
