@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Fərhad Kərimov
 
-💻 **Flutter & Web Developer | Computer Engineering Student**  
+💻 **Flutter | Computer Engineering Student**  
 🎓 Studying at Baku Engineering University & learning Flutter at Div Academy  
 
 
