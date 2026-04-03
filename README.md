@@ -1,19 +1,56 @@
-# Hi there! 👋 I'm Fərhad Kərimov
+# 👋 Hi there! I'm Fərhad Kərimov
 
-💻 **Flutter | Computer Engineering Student**  
-🎓 Studying at Baku Engineering University & learning Flutter at Div Academy  
+💻 **Flutter Developer | Computer Engineering Student**
 
+🎓 Studying at **Baku Engineering University**
+📱 Learning Flutter at **Div Academy**
+
+---
+
+## 🚀 About Me
+
+* Passionate about building scalable and clean mobile applications
+* Focused on writing maintainable and efficient code
+* Continuously improving my skills in Flutter and modern architectures
+
+---
 
 ## 🛠 Skills
 
-- **Programming Languages:** Dart, Python, PHP, C#, C, C++, Java, JavaScript  
-- **Mobile Development:** Flutter (API Integration, REST APIs, JSON parsing)
-- **Web Development:** React.js, HTML5, CSS, PHP  
-- **Tools & Technologies:** VS Code, Git, GitHub 
-- **Soft Skills:** Problem Solving, Teamwork, Quick Learner
+### 👨‍💻 Programming Languages
+
+`Dart` `Python` `PHP` `C#` `C` `C++` `Java` `JavaScript`
+
+### 📱 Mobile Development
+
+* Flutter (Advanced)
+* REST API Integration
+* JSON Parsing
+* State Management (**BLoC & Cubit**)
+* **Internationalization (i18n)**
+
+### 🏗 Architecture & Principles
+
+* **Clean Architecture**
+* **SOLID Principles**
+* Scalable & Maintainable Code Structure
+
+### 🌐 Web Development
+
+`React.js` `HTML5` `CSS` `PHP`
+
+### ⚙️ Tools & Technologies
+
+`VS Code` `Git` `GitHub` `Cursor` `Antigravity`
+
+---
 
 ## 📫 Connect with me
 
-- 🔗 LinkedIn: [Fərhad Kərimov](https://www.linkedin.com/in/farhadkerimov11/)  
-- 🔗 GitHub: [fourhadd](https://github.com/fourhadd)  
-- 📧 Email: *krmvferhad@gmail.com*
+* 🔗 LinkedIn: **Fərhad Kərimov**
+* 🔗 GitHub: **fourhadd**
+* 📧 Email: **[krmvferhad@gmail.com](mailto:krmvferhad@gmail.com)**
+
+---
+
+⭐️ *Always learning, always building.*
