@@ -51,9 +51,8 @@
 ---
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fourhadd&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=fourhadd&theme=dark&hide_border=true&v=101)](https://git.io/streak-stats)
 ---
 
 *Always learning, always building.*
