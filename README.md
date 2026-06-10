@@ -52,7 +52,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=fourhadd&theme=dark&hide_border=true&mode=weekly&v=999)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fourhadd&theme=dark&hide_border=true&v=beu_streak_win)](https://git.io/streak-stats)
 ---
 
 *Always learning, always building.*
