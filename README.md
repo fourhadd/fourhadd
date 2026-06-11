@@ -52,7 +52,6 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=fourhadd&theme=dark&hide_border=true&v=tri_daily_clean_80)](https://git.io/streak-stats)
 ---
 
 *Always learning, always building.*
