@@ -58,7 +58,7 @@ miqyaslana bilən həllər qururam.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=fourhadd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fourhadd&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=fourhadd&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
 
 <br/><br/>
 
