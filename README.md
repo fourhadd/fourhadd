@@ -53,12 +53,27 @@ new tools to write better, more scalable code.
 
 ---
 
+<h2 align="center">🏆 Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fourhadd&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" width="97%"/>
+
+</div>
+
+---
+
 <h2 align="center">📊 Statistics</h2>
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=fourhadd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=fourhadd&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
+
+<br/><br/>
+
+<b>518</b> contributions in the last year
+
 </div>
 
 ---
