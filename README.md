@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Farhad's%20Github&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C/%3E&descAlignY=60&descSize=18" width="100%"/>
+<img src="banner-top.png" width="100%"/>
 
 <br/>
 
@@ -15,16 +15,16 @@
 <h2 align="center">📌 About Me</h2>
 
 <p align="center">
-Salam! Mən <b>Fərhad Kərimov</b>, Flutter Developer / Mobile Engineer.<br/>
-Mobil tətbiqlər üzərində işləyir, təmiz arxitektura və SOLID prinsiplərinə əsaslanan<br/>
-miqyaslana bilən həllər qururam.
+Hi there! I'm <b>Farhad Karimov</b>, a Flutter Developer and Mobile Engineer.<br/>
+I enjoy turning ideas into clean, well-structured apps and constantly explore<br/>
+new tools to write better, more scalable code.
 </p>
 
 <p align="center">
-📱 &nbsp; Flutter &amp; Dart ilə mobil development<br/>
-🧠 &nbsp; BLoC / Cubit ilə state management<br/>
-🌐 &nbsp; REST API inteqrasiyası &amp; i18n<br/>
-🏗️ &nbsp; Clean Architecture həvəskarı
+🚀 &nbsp; Building cross-platform apps with Flutter &amp; Dart<br/>
+🧩 &nbsp; Solid grasp of BLoC / Cubit state management<br/>
+🔗 &nbsp; Comfortable wiring up REST APIs &amp; multi-language support<br/>
+📚 &nbsp; Always learning something new in software architecture
 </p>
 
 ---
@@ -57,13 +57,8 @@ miqyaslana bilən həllər qururam.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fourhadd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=fourhadd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=fourhadd&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fourhadd&theme=github-compact&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="97%"/>
-
 </div>
 
 ---
@@ -72,6 +67,6 @@ miqyaslana bilən həllər qururam.
 
 *Always learning, always building.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+<img src="banner-bottom.png" width="100%"/>
 
 </div>
