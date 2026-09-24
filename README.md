@@ -53,16 +53,6 @@ new tools to write better, more scalable code.
 
 ---
 
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fourhadd&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" width="97%"/>
-
-</div>
-
----
-
 <h2 align="center">📊 Statistics</h2>
 
 <div align="center">
